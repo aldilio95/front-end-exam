@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "rochafi",
+      "email": "rochafi@gmail.com",
+      "pswd": "satuduatiga",
+      "id": 1
+    },
+    {
+      "username": "alvinn",
+      "email": "alvinn@gmail.com",
+      "pswd": "satuduatiga",
+      "id": 2
+    },
+    {
+      "username": "rochafi26",
+      "email": "rochafi26@gmail.com",
+      "pswd": "satuduatiga",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hoodie Red",
+      "desc": "Lorem ipsum dolor sit amet",
+      "price": 200000,
+      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+    },
+    {
+      "id": 2,
+      "name": "Sepatu Piero",
+      "desc": "Lorem ipsum dolor sit amet",
+      "price": 150000,
+      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+    },
+    {
+      "id": 3,
+      "name": "Sandals Swelow",
+      "desc": "Lorem ipsum dolor sit amet",
+      "price": 235000,
+      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+    },
+    {
+      "id": 4,
+      "name": "T-Shirt O Neck",
+      "desc": "Lorem ipsum dolor sit amet",
+      "price": 178000,
+      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+    }
+  ]
+}
