@@ -1,52 +1,101 @@
 {
   "users": [
     {
-      "username": "rochafi",
-      "email": "rochafi@gmail.com",
-      "pswd": "satuduatiga",
+      "username": "fadil",
+      "email": "latif",
+      "password": "123",
       "id": 1
     },
     {
-      "username": "alvinn",
-      "email": "alvinn@gmail.com",
-      "pswd": "satuduatiga",
+      "username": "latif",
+      "email": "rmdhn",
+      "password": "123",
       "id": 2
     },
     {
-      "username": "rochafi26",
-      "email": "rochafi26@gmail.com",
-      "pswd": "satuduatiga",
+      "username": "aldi",
+      "email": "aldi",
+      "password": "123",
       "id": 3
     }
   ],
   "products": [
     {
-      "id": 1,
-      "name": "Hoodie Red",
-      "desc": "Lorem ipsum dolor sit amet",
+      "name": "Topi Gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 100000,
+      "stock": "6",
+      "src": "https://www.mltd.com/images/products/huf-usual-beanie-black.jpg",
+      "id": 1
+    },
+    {
+      "name": "jam gaul",
+      "desc": "Lorem ipsum dolot sit amet",
       "price": 200000,
-      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+      "stock": "5",
+      "src": "https://www.mltd.com/images/products/00006592331943B5_L.jpg",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "Sepatu Piero",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 150000,
-      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
-    },
-    {
-      "id": 3,
-      "name": "Sandals Swelow",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 235000,
-      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+      "name": "baju gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 300000,
+      "stock": "4",
+      "src": "https://www.mltd.com/images/products/_MG_1847-Edit.jpg",
+      "id": 3
     },
     {
       "id": 4,
-      "name": "T-Shirt O Neck",
+      "name": "Celana Gaul",
       "desc": "Lorem ipsum dolor sit amet",
-      "price": 178000,
-      "src": "https://www.pngfind.com/pngs/m/162-1621689_cloud9-lcs-jersey-cloud-9-csgo-jersey-hd.png"
+      "price": 400000,
+      "stock": "3",
+      "src": "https://www.mltd.com/images/products/1585952901.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tas gaul",
+      "desc": "Lorem ipsum dolor sit amet",
+      "price": 500000,
+      "stock": "2",
+      "src": "https://www.mltd.com/images/products/1581373019.jpg"
+    },
+    {
+      "name": "kacamata gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 600000,
+      "stock": "1",
+      "src": "https://www.mltd.com/images/products/1584487583.jpg",
+      "id": 6
+    }
+  ],
+  "Carts": [
+    {
+      "name": "baju gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 300000,
+      "stock": "4",
+      "src": "https://www.mltd.com/images/products/_MG_1847-Edit.jpg",
+      "qty": null,
+      "id": 1
+    },
+    {
+      "name": "jam gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 200000,
+      "stock": "5",
+      "src": "https://www.mltd.com/images/products/00006592331943B5_L.jpg",
+      "qty": null,
+      "id": 2
+    },
+    {
+      "name": "Topi Gaul",
+      "desc": "Lorem ipsum dolot sit amet",
+      "price": 100000,
+      "stock": "6",
+      "src": "https://www.mltd.com/images/products/huf-usual-beanie-black.jpg",
+      "qty": null,
+      "id": 3
     }
   ]
 }
