@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "username": "fadil",
-      "email": "latif",
-      "password": "123",
-      "id": 1
-    },
-    {
-      "username": "latif",
-      "email": "rmdhn",
-      "password": "123",
-      "id": 2
-    },
-    {
       "username": "aldi",
       "email": "aldi",
       "password": "123",
       "id": 3
+    },
+    {
+      "username": "aldi1",
+      "email": "aldo",
+      "password": "321",
+      "id": 4
+    },
+    {
+      "username": "abraham",
+      "email": "abe",
+      "password": "123",
+      "id": 5
     }
   ],
   "products": [
